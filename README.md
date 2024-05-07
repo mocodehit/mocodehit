@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mocodehit
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning html and css
+- 👀 I’m interested in mkaing cool stuff
+- 🌱 I’m currently learning Frontend Development
 - 💞️ I’m looking to collaborate on nothing currently
 - 📫 How to reach me :https://www.instagram.com/mohit_77x/
 
